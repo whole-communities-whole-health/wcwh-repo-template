@@ -3,3 +3,11 @@ This repository is used as the boilerplate for consistency across WCWH repositor
 data analysis.
 
 ## Instructions for using this template
+
+To use this template to create your own repository, follow the steps below
+1. Click the green "Use this template" button above.
+2. In the "Owner" drop down list, select whole-communities-whole-health so that the repository you create is visible to other people within WCWH.
+3. Choose a descriptive repository name.
+4. Select "Public."
+5. Click the green button "Create repository from template."
+
