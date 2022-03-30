@@ -2,7 +2,7 @@
 This repository is used as the boilerplate for consistency across WCWH repositories related to
 data analysis.
 
-## Instructions for using this template
+## Instructions for creating a repository from this template
 
 To use this template to create your own repository, follow the steps below
 1. Click the green "Use this template" button above.
@@ -11,3 +11,4 @@ To use this template to create your own repository, follow the steps below
 4. Select "Public."
 5. Click the green button "Create repository from template."
 
+You have now created a copy of the template with the same files and folder structure.
