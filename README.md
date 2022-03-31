@@ -11,4 +11,7 @@ To use this template to create your own repository, follow the steps below
 4. Select "Public."
 5. Click the green button "Create repository from template."
 
-You have now created a copy of the template with the same files and folder structure.
+You have now created a copy of the template with the same files and folder structure. 
+
+## Next Steps
+Edit this file to describe what is in your repository and include relevant usage instructions. The document GITFLOW.md will give you some tips for working with branches and pull requests in git.
