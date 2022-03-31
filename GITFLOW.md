@@ -4,6 +4,7 @@
 ```
 git clone git@github.com:whole-communities-whole-health/YOUR-REPO-NAME.git
 ```
+
 ## Add 'upstream' repo to list of remotes
 ```
 git remote add upstream git@github.com:whole-communities-whole-health/YOUR-REPO-NAME.git
@@ -36,7 +37,7 @@ git branch feature/jdoe
 
 ## Switch to your new branch
 ```
-git checkout feature/jdoe/567
+git checkout feature/jdoe
 ```
 Now, go to town hacking away and making whatever changes you want.
 
@@ -47,6 +48,7 @@ Prior to submitting your pull request, you might want to check over your work to
 ```
 git add FILENAME(S)
 ```
+
 ## Add a commit message that briefly describes what you did
 ```
 git commit -m "Your commit message goes here."
