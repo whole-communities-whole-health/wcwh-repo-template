@@ -20,13 +20,14 @@ Use this repository to upload sample calculations, scripts, data sets etc. that 
 1. Edit this file to describe what is in your repository and include relevant usage instructions.
 2. The document GITFLOW.md will give you some tips for working with branches and pull requests in git.
 3. If your research team has work elsewhere on Github, please use this template to create a repository in the WCWH organization. You can link to your team's repository as necessary.
-4. A suggested repository organization structure is below.
+4. A suggested repository organization structure is below. Adapt it as necessary for your
+   purposes.
 
-## Repository Organization
+## Suggested Repository Organization
 
 ├── LICENSE
 ├── README.md          <- The top-level README for developers using this project.
-├── data (not included)
+├── data
 │   ├── external       <- Data from third party sources.
 │   ├── interim        <- Intermediate data that has been transformed.
 |   ├── purgatory      <- Raw data with inconsistent formatting.
