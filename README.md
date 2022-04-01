@@ -14,4 +14,7 @@ To use this template to create your own repository, follow the steps below
 You have now created a copy of the template with the same files and folder structure. 
 
 ## Next Steps
-Use this repository to upload sample calculations, scripts, data sets etc. that would be userful to a someone who needs to understand the work you do. Edit this file to describe what is in your repository and include relevant usage instructions. The document GITFLOW.md will give you some tips for working with branches and pull requests in git.
+Use this repository to upload sample calculations, scripts, data sets etc. that would be userful to a someone who needs to understand the work you do. Here are some things to keep in mind:
+1. Edit this file to describe what is in your repository and include relevant usage instructions.
+2. The document GITFLOW.md will give you some tips for working with branches and pull requests in git.
+3. If your research team has work elsewhere on Github, please use this template to create a repository in the WCWH organization. You can link to your team's repository as necessary.
