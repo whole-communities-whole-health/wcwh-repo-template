@@ -23,13 +23,9 @@ Use this repository to upload sample calculations, scripts, data sets etc. that 
 4. A suggested repository organization structure is below. Adapt it as necessary for your
    purposes.
 
-<<<<<<< HEAD
 ## Suggested Repository Organization
-=======
-## Repository Organization
-<pre>
->>>>>>> 3edbe4da46fa448de6373174485d261ef3218f07
 
+<pre>
 ├── LICENSE
 ├── README.md          <- The top-level README for developers using this project.
 ├── data
@@ -41,9 +37,9 @@ Use this repository to upload sample calculations, scripts, data sets etc. that 
 │
 ├── images             <- Study-related images
 │
-├── notebooks          <- Jupyter notebooks for the majority of analysis - see readme in the folder for more details
+├── notebooks          <- Jupyter notebooks for the majority of analysis
 │
-├── references         <- Data dictionaries, manuals, and all other explanatory materials - see Wiki too
+├── references         <- Data dictionaries, manuals, and all other explanatory materials
 │
 ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
 │   └── figures        <- Generated graphics and figures to be used in reporting
