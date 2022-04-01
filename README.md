@@ -23,6 +23,7 @@ Use this repository to upload sample calculations, scripts, data sets etc. that 
 4. A suggested repository organization structure is below.
 
 ## Repository Organization
+<pre>
 
 ├── LICENSE
 ├── README.md          <- The top-level README for developers using this project.
@@ -55,3 +56,4 @@ Use this repository to upload sample calculations, scripts, data sets etc. that 
 │       └── visualize.py
 │
 └── videos             <- Study-related videos
+</pre>
