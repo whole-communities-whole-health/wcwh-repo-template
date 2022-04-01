@@ -58,3 +58,7 @@ Use this repository to upload sample calculations, scripts, data sets etc. that 
 │
 └── videos             <- Study-related videos
 </pre>
+
+## Resources
+
+The file [GITFLOW.md](https://github.com/whole-communities-whole-health/wcwh-repo-template/blob/main/GITFLOW.md) in this repository has some tips on working with branches and pull requests in git.
