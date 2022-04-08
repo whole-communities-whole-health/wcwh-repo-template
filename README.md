@@ -17,7 +17,7 @@ You have now created a copy of the template with the same files and folder struc
 
 ## Next Steps
 Use this repository to upload sample calculations, scripts, data sets etc. that would be userful to a someone who needs to understand the work you do. Here are some things to keep in mind:
-1. Edit this file to describe what is in your repository and include relevant usage instructions.
+1. Delete the text in this file to and use README.md to describe what is in your repository and include relevant usage instructions.
 2. The document GITFLOW.md will give you some tips for working with branches and pull requests in git.
 3. If your research team has work elsewhere on Github, please use this template to create a repository in the WCWH organization. You can link to your team's repository as necessary.
 4. A suggested repository organization structure is below. Adapt it as necessary for your
