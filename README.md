@@ -36,8 +36,10 @@ Use this repository to upload sample calculations, scripts, data sets etc. that 
 │   └── raw            <- The original, immutable data dump.
 │
 ├── images             <- Study-related images
+│   └── README.md      <- README for this directory
 │
 ├── references         <- Data dictionaries, manuals, and all other explanatory materials
+│   └── README.md      <- README for this directory
 │
 ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
 │   ├── README.md      <- README for this directory
