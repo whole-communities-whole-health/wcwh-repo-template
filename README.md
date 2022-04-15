@@ -6,7 +6,7 @@ data analysis.
 
 ## Instructions for creating a repository from this template
 
-To use this template to create your own repository, follow the steps below
+To use this template to create your own repository, follow the steps below.
 1. Click the green "Use this template" button above.
 2. In the "Owner" drop down list, select whole-communities-whole-health so that the repository you create is visible to other people within WCWH. (You do not want your username here).
 3. Choose a descriptive repository name.
@@ -14,6 +14,9 @@ To use this template to create your own repository, follow the steps below
 5. Click the green button "Create repository from template."
 
 You have now created a copy of the template with the same files and folder structure. 
+
+<p style="text-align:center;" align="center">
+  <img align="center" src="https://github.com/whole-communities-whole-health/wcwh-repo-template/blob/main/images/template-demo.png" width="75%" /></p>
 
 ## Next Steps
 Use this repository to upload sample calculations, scripts, data sets etc. that would be userful to a someone who needs to understand the work you do. Here are some things to keep in mind:
