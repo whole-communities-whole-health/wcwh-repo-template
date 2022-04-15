@@ -49,6 +49,7 @@ Use this repository to upload sample calculations, scripts, data sets etc. that 
 │   └── README.md      <- README for this directory
 │
 └── videos             <- Study-related videos
+    └── README.md      <- README for this directory
 </pre>
 
 ## Resources
