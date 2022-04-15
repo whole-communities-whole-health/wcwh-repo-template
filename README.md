@@ -1,7 +1,7 @@
 ## Instructions for creating a repository from this template
 
 To use this template to create your own repository, follow the steps below.
-1. Click the green "Use this template" button above.
+1. Click the green "Use this template" button at the top of this page.
 2. In the "Owner" drop down list, select whole-communities-whole-health so that the repository you create is visible to other people within WCWH. (You do not want your username here).
 3. Choose a descriptive repository name.
 4. Select "Private" to keep your repository to be visible to people in the WCWH Github organization only, and "Public" if you want it to be publicly available.
@@ -18,7 +18,7 @@ Use this repository to upload sample calculations, scripts, data sets etc. that 
 2. The document GITFLOW.md will give you some tips for working with branches and pull requests in git.
 3. If your research team has work elsewhere on Github, please use this template to create a repository in the WCWH organization. You can link to your team's repositories in the top level README document (this file).
 4. A suggested repository organization structure is below. Adapt it as necessary for your
-   purposes.
+   purposes. Include a README file in each sub directory to describe its purpose.
 
 ## Suggested Repository Organization
 
