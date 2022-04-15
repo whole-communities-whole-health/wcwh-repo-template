@@ -27,34 +27,24 @@ Use this repository to upload sample calculations, scripts, data sets etc. that 
 
 <pre>
 ├── LICENSE
-├── README.md          <- The top-level README for developers using this project.
+├── README.md          <- The top-level README for users of this repository
 ├── data
+│   ├── README.md      <- README for this directory
 │   ├── external       <- Data from third party sources.
 │   ├── interim        <- Intermediate data that has been transformed.
-|   ├── purgatory      <- Raw data with inconsistent formatting.
 │   ├── processed      <- The final, canonical data sets for modeling.
 │   └── raw            <- The original, immutable data dump.
 │
 ├── images             <- Study-related images
 │
-├── notebooks          <- Jupyter notebooks for the majority of analysis
-│
 ├── references         <- Data dictionaries, manuals, and all other explanatory materials
 │
 ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
+│   ├── README.md      <- README for this directory
 │   └── figures        <- Generated graphics and figures to be used in reporting
 │
 ├── src                <- Source code for use in this project.
-│   ├── __init__.py    <- Makes src a Python module
-│   │
-│   ├── data           <- Scripts to download or generate data
-│   │   └── make_dataset.py
-│   │
-│   ├── features       <- Scripts to turn raw data into features 
-│   │   └── build_features.py
-│   │
-│   └── visualization  <- Scripts to create exploratory and results oriented visualizations
-│       └── visualize.py
+│   └── README.md      <- README for this directory
 │
 └── videos             <- Study-related videos
 </pre>
