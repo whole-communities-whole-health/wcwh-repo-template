@@ -1,9 +1,3 @@
-# wcwh-repo-template
-This repository is used as the boilerplate for consistency across WCWH repositories related to
-data analysis.
-
-<img src="https://github.com/whole-communities-whole-health/wcwh-repo-template/blob/main/images/1-colorOrange_FB.png" alt="WCWH" width="200"/>
-
 ## Instructions for creating a repository from this template
 
 To use this template to create your own repository, follow the steps below.
