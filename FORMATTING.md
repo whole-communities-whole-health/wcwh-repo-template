@@ -1,1 +1,1 @@
-## This file will include instructions on formatting markdown
+The best place to learn more about how to format markdown (files ending in .md) is to follow the instructions [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax). 
