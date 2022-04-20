@@ -51,4 +51,4 @@ Use this repository to upload sample calculations, scripts, data sets etc. that 
 
 ## Resources
 
-The file [GITFLOW.md](https://github.com/whole-communities-whole-health/wcwh-repo-template/blob/main/GITFLOW.md) in this repository has some tips on working with branches and pull requests in git.
+The file [GITFLOW.md](https://github.com/whole-communities-whole-health/wcwh-repo-template/blob/main/GITFLOW.md) in this repository has some tips on working with branches and pull requests in git. [FORMATTING.md](FORMATTING.md) has tips on working with markdown in Github.
