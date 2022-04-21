@@ -1,1 +1,1 @@
-Use this file to explain what is in this directory
+Use this file to explain what is included or linked to here.
