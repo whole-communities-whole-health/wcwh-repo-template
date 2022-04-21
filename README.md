@@ -26,7 +26,7 @@ Use this repository to upload sample calculations, scripts, data sets etc. that 
 ├── LICENSE
 ├── README.md          <- The top-level README for users of this repository
 ├── data
-│   ├── README.md      <- README for data contained in this directory or an explanation of where to find data (i.e. Box)
+│   ├── README.md      <- README for this directory or an explanation of where to find data. (i.e. Box)
 │   ├── external       <- Data from third party sources.
 │   ├── interim        <- Intermediate data that has been transformed.
 │   ├── processed      <- The final, canonical data sets for modeling.
