@@ -18,7 +18,7 @@ Use this repository to upload sample calculations, scripts, data sets etc. that 
 2. The document [GITFLOW.md](GITFLOW.md) will give you some tips for working with branches and pull requests in git.
 3. If your research team has work elsewhere on Github, please use this template to create a repository in the WCWH organization. You can link to your team's repositories in the top level README document (this file).
 4. A suggested repository organization structure is below. Adapt it as necessary for your
-   purposes. Include a README file in each sub directory to describe its purpose.
+   purposes. Include a README file in each sub directory to describe its purpose. If you have materials stored in another place (i.e. another Github repo, UT Box) please include a link to those places. You do not need to move or copy the data here.
 
 ## Suggested Repository Organization
 
