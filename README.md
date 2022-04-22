@@ -4,7 +4,7 @@ To use this template to create your own repository, follow the steps below.
 1. Click the green "Use this template" button at the top of this page.
 2. In the "Owner" drop down list, select whole-communities-whole-health so that the repository you create is visible to other people within WCWH. (You do not want your username here).
 3. Choose a descriptive repository name.
-4. Select "Private" to keep your repository to be visible to people in the WCWH Github organization only, and "Public" if you want it to be publicly available.
+4. Select "Private" to keep your repository visible only to people in the WCWH Github organization, and "Public" if you want it to be publicly available.
 5. Verify that your screen matches the picture below. Click the green button "Create repository from template."
 
 <p style="text-align:center;" align="center">
@@ -13,24 +13,23 @@ To use this template to create your own repository, follow the steps below.
 You have now created a copy of this template that the same files and folder structure. 
 
 ## Next Steps
-Use this repository to upload sample calculations, scripts, sample data sets etc. that would be userful to a someone who needs to understand the work you do (i.e. a new grad student). Here are some things to keep in mind:
+Use this repository to upload sample calculations, scripts, sample data sets, etc. that would be userful to a someone who needs to understand the work you do (i.e. a new grad student). Here are some things to keep in mind:
 1. Delete the text in this file and use README.md to describe what is in the repository you created. Include relevant usage instructions for future researchers.
 2. Data included in your repository should be dummy data only that can be used in tandem with code you include here
-3. If your research team has work elsewhere on Github, please use this template to create a repository in the WCWH organization. You can link to your team's repositories in the top level README document (this file).
-4. A suggested repository organization structure is below. Adapt it as necessary for your
+3. A suggested repository organization structure is below. Adapt it as necessary for your
    purposes. Include a README file in each sub directory to describe its purpose. 
 
 ## Suggested Repository Organization
 
 <pre>
-├── LICENSE            <- Include as necessary for repositories intended as open source.
+├── LICENSE            <- Include as necessary for repositories intended as open source
 ├── README.md          <- The top-level README for users of this repository
 ├── data
 │   ├── README.md      <- README for this directory
-│   ├── external       <- Data from third party sources.
-│   ├── interim        <- Intermediate data that has been transformed.
-│   ├── processed      <- The final, canonical data sets for modeling.
-│   └── raw            <- The original, immutable data dump.
+│   ├── external       <- Data from third party sources
+│   ├── interim        <- Intermediate data that has been transformed
+│   ├── processed      <- The final, canonical data sets for modeling
+│   └── raw            <- The original data
 │
 ├── images             <- Study-related images
 │   └── README.md      <- README for this directory
@@ -38,11 +37,11 @@ Use this repository to upload sample calculations, scripts, sample data sets etc
 ├── references         <- Data dictionaries, manuals, and all other explanatory materials
 │   └── README.md      <- README for this directory
 │
-├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
+├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc
 │   ├── README.md      <- README for this directory
 │   └── figures        <- Generated graphics and figures to be used in reporting
 │
-├── src                <- Source code for use in this project.
+├── src                <- Source code for use in this project
 │   └── README.md      <- README for this directory
 │
 └── videos             <- Study-related videos (if applicable)
