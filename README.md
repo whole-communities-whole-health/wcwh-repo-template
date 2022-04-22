@@ -23,10 +23,10 @@ Use this repository to upload sample calculations, scripts, sample data sets etc
 ## Suggested Repository Organization
 
 <pre>
-├── LICENSE
+├── LICENSE            <- Include as necessary for repositories intended as open source.
 ├── README.md          <- The top-level README for users of this repository
 ├── data
-│   ├── README.md      <- README for this directory or an explanation of where to find data. (i.e. Box)
+│   ├── README.md      <- README for this directory
 │   ├── external       <- Data from third party sources.
 │   ├── interim        <- Intermediate data that has been transformed.
 │   ├── processed      <- The final, canonical data sets for modeling.
