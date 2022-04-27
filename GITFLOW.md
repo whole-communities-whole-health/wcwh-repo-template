@@ -5,7 +5,12 @@
 git clone git@github.com:whole-communities-whole-health/YOUR-REPO-NAME.git
 ```
 
-## Add 'upstream' repo to list of remotes
+## Navigate to the project directory
+```
+cd YOUR-REPO-NAME
+```
+
+## Add reference (upstream) to the original repository
 ```
 git remote add upstream git@github.com:whole-communities-whole-health/YOUR-REPO-NAME.git
 ```
@@ -28,7 +33,7 @@ Whenever you begin work on a new feature or bugfix, it's important that you crea
 
 To create a new branch and start working on it, peform the following flow.
 
-## Create a new branch (give your branch its own simple informative name)
+## Create a new branch (give your branch its own unique informative name)
 A suggested branch name is `feature/your_username/` or `feature/your_username/name_of_feature`
 If you are fixing a bug, you could use `bugfix/your_username` or `bugfix/your_username/name_of_bug`
 
