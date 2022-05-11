@@ -1,3 +1,7 @@
+## Purpose of this template
+
+Use this template each time you want to share a script, function or other analysis tool. Create a new repository as often as necessary.
+
 ## Instructions for creating a repository from this template
 
 To use this template to create your own repository, follow the steps below.
