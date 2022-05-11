@@ -26,24 +26,26 @@ Use this repository to upload sample calculations, scripts, sample data sets, et
 ## Suggested Repository Organization
 
 <pre>
-├── LICENSE            <- Include as necessary for repositories intended as open source
+├── LICENSE            <- Include for repositories intended as open source
+│
 ├── README.md          <- The top-level README for users of this repository
+│
 ├── data
 │   ├── README.md      <- README for this directory
 │   ├── external       <- Data from third party sources
 │   ├── interim        <- Intermediate data that has been transformed
-│   ├── processed      <- The final, canonical data sets for modeling
+│   ├── processed      <- The final data set for modeling
 │   └── raw            <- The original data
 │
-├── images             <- Study-related images
+├── images             <- Relevant images
 │   └── README.md      <- README for this directory
 │
-├── references         <- Data dictionaries, manuals, and all other explanatory materials
+├── references         <- Data dictionaries, manuals, and other explanatory materials
 │   └── README.md      <- README for this directory
 │
-├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc
+├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
 │   ├── README.md      <- README for this directory
-│   └── figures        <- Generated graphics and figures to be used in reporting
+│   └── figures        <- Generated graphics and figures for use in reporting
 │
 ├── src                <- Source code for use in this project
 │   └── README.md      <- README for this directory
