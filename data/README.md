@@ -1,1 +1,1 @@
-This directory should be used to house a sample data set that is compatible with the code in this repository.
+This directory could be used to house a sample data set that is compatible with the code in this repository.

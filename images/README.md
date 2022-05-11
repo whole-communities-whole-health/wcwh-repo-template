@@ -1,1 +1,1 @@
-Use this file to explain what is in this directory
+Images used in this template.
