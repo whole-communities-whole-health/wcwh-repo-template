@@ -36,6 +36,7 @@ To create a new branch and start working on it, follow the following steps.
 ## Create a new branch (give your branch its own unique informative name)
 A suggested branch name is `feature/your_username/` or `feature/your_username/name_of_feature`
 If you are fixing a bug, you could use `bugfix/your_username` or `bugfix/your_username/name_of_bug`
+It's good practice to include your username in cases where other people may contribute to the same repository.
 
 ```
 git branch feature/jdoe
