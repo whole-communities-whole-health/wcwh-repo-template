@@ -20,8 +20,8 @@ You have now created a copy of this template that the same files and folder stru
 Use this repository to upload sample calculations, scripts, sample data sets, etc. that would be userful to a someone who needs to understand the work you do (i.e. a new grad student). Here are some things to keep in mind:
 1. Delete the text in this file and use README.md to describe what is in the repository you created. Include relevant usage instructions for future researchers.
 2. Data included in your repository should be dummy data only that can be used in tandem with code you include here
-3. A suggested repository organization structure is below. Adapt it as necessary for your
-   purposes. Include a README file in each sub directory to describe its purpose. 
+3. A sample repository organization structure is below. Adapt it as necessary for your
+   purposes. If you're only sharing a single script, your repository will look different.
 
 ## Suggested Repository Organization
 
