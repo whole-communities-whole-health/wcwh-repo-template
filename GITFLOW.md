@@ -31,7 +31,7 @@ git checkout main
 **Create a Branch** (doing your work)
 Whenever you begin work on a new feature or bugfix, it's important that you create a new branch. Not only is it proper git workflow, but it also keeps your changes organized and separated from the main branch so that you can easily submit and manage multiple pull requests for every task you complete.
 
-To create a new branch and start working on it, peform the following flow.
+To create a new branch and start working on it, follow the following steps.
 
 ## Create a new branch (give your branch its own unique informative name)
 A suggested branch name is `feature/your_username/` or `feature/your_username/name_of_feature`
@@ -45,7 +45,7 @@ git branch feature/jdoe
 ```
 git checkout feature/jdoe
 ```
-Now, go to town hacking away and making whatever changes you want.
+Now, make the necessary additions and edits that are necessary for your feature or bugfix.
 
 ## Submitting your changes (a Pull Request)
 Prior to submitting your pull request, you might want to check over your work to make sure everything is as simple and clear as possible. 
@@ -62,7 +62,7 @@ git commit -m "Your commit message goes here."
 
 ## Push your code
 ```
-git push origin name-of-your-branch
+git push origin name-of-your-branch (i.e. git push origin feature/jdoe)
 ```
 
 ## Creating a pull request
