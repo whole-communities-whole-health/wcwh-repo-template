@@ -4,9 +4,9 @@ Use this template each time you want to share a script, function or other analys
 
 ## Instructions for creating a repository from this template
 
-To use this template to create your own repository, follow the steps below.
+To use this template to create your own repository in the WCWH organization, follow the steps below.
 1. Click the green "Use this template" button at the top of this page.
-2. In the "Owner" drop down list, select whole-communities-whole-health so that the repository you create is visible to other people within WCWH. (You do not want your username here).
+2. In the "Owner" drop down list, select whole-communities-whole-health so that the repository you create is visible to other people within WCWH. (You do not want your username here). If you do not have the option to change the owner, contact [Joe Midura](https://github.com/josephmidura) so that he can add you to the organization.
 3. Choose a descriptive repository name.
 4. Select "Private" to keep your repository visible only to people in the WCWH Github organization, and "Public" if you want it to be publicly available.
 5. Verify that your screen matches the picture below. Click the green button "Create repository from template."
@@ -14,7 +14,7 @@ To use this template to create your own repository, follow the steps below.
 <p style="text-align:center;" align="center">
   <img align="center" src="https://github.com/whole-communities-whole-health/wcwh-repo-template/blob/main/images/template-demo.png" width="75%" /></p>
 
-You have now created a copy of this template that the same files and folder structure. 
+You have now created a copy of this template that the same files and folder structure as this template. 
 
 ## Next Steps
 Use this repository to upload sample calculations, scripts, sample data sets, etc. that would be userful to a someone who needs to understand the work you do (i.e. a new grad student). Here are some things to keep in mind:
@@ -23,7 +23,7 @@ Use this repository to upload sample calculations, scripts, sample data sets, et
 3. A sample repository organization structure is below. Adapt it as necessary for your
    purposes. If you're only sharing a single script, your repository will look different.
 
-## Suggested Repository Organization
+## Sample Repository Organization
 
 <pre>
 ├── LICENSE            <- Include for repositories intended as open source
@@ -54,7 +54,7 @@ Use this repository to upload sample calculations, scripts, sample data sets, et
     └── README.md      <- README for this directory
 </pre>
 
-## Resources
+## Git Resources
 
 The file [GITFLOW.md](https://github.com/whole-communities-whole-health/wcwh-repo-template/blob/main/GITFLOW.md) in this repository has some tips on working with branches and pull requests in git. [FORMATTING.md](FORMATTING.md) has tips on working with markdown in Github. 
 
