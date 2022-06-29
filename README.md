@@ -15,8 +15,20 @@ To use this template to create your own repository in the WCWH organization, fol
   <img align="center" src="https://github.com/whole-communities-whole-health/wcwh-repo-template/blob/main/images/template-demo.png" width="75%" /></p>
 
 You have now created a copy of this template that the same files and folder structure as this template.  
-6. In your new repository, click settings from the menu at the top right, and "Collaborators and teams" from the sidebar on the left. Click the "Add teams" button and search for "researchers" in the pop up window. Choose "whole-communities-whole-health/researchers" when it appears. This team is comprised of people who are listed on the WCWH Cohort IRB.  
-7. Choose the level of access you want to grant to the researcher team from the pop up window.  
+
+## Manage access to your new repository  
+
+If you created a private repository according to the steps above, you are by default the only one who can access it. To share your repository with other people within the WCWH organization on Github, follow the steps below.  
+
+1. In your new repository, click settings from the menu at the top right, and "Collaborators and teams" from the sidebar on the left. Click the "Add teams" button and search for "researchers" in the pop up window. Choose "whole-communities-whole-health/researchers" when it appears. 
+
+<p style="text-align:center;" align="center">
+  <img align="center" src="https://github.com/whole-communities-whole-health/wcwh-repo-template/blob/main/images/search.png" width="75%" /></p>
+
+2. Choose the level of access you want to grant to the researcher team from the pop up window.  
+
+<p style="text-align:center;" align="center">
+  <img align="center" src="https://github.com/whole-communities-whole-health/wcwh-repo-template/blob/main/images/grant-access.png" width="75%" /></p>
 
 
 
