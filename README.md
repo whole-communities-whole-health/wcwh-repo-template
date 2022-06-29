@@ -23,12 +23,12 @@ If you created a private repository according to the steps above, you are by def
 1. In your new repository, click settings from the menu at the top right, and "Collaborators and teams" from the sidebar on the left. Click the "Add teams" button and search for "researchers" in the pop up window. Choose "whole-communities-whole-health/researchers" when it appears. 
 
 <p style="text-align:center;" align="center">
-  <img align="center" src="https://github.com/whole-communities-whole-health/wcwh-repo-template/blob/main/images/search.png" width="75%" /></p>
+  <img align="center" src="https://github.com/whole-communities-whole-health/wcwh-repo-template/blob/main/images/search.png" width="50%" /></p>
 
 2. Choose the level of access you want to grant to the researcher team from the pop up window.  
 
 <p style="text-align:center;" align="center">
-  <img align="center" src="https://github.com/whole-communities-whole-health/wcwh-repo-template/blob/main/images/grant-access.png" width="75%" /></p>
+  <img align="center" src="https://github.com/whole-communities-whole-health/wcwh-repo-template/blob/main/images/grant-access.png" width="50%" /></p>
 
 
 
