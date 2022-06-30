@@ -1,8 +1,8 @@
-## Purpose of this template
+## Purpose
 
 Use this template each time you want to share a script, function or other analysis tool. Create a new repository from this template as often as necessary.
 
-## Instructions for creating a repository from this template
+## Instructions for Creating a Repository From This Template
 
 To use this template to create your own repository in the WCWH organization, follow the steps below.
 1. Click the green "Use this template" button at the top of this page.
@@ -16,9 +16,9 @@ To use this template to create your own repository in the WCWH organization, fol
 
 You have now created a copy of this template that the same files and folder structure as this template.  
 
-## Manage access to your new repository  
+## Manage Access to Your Repository  
 
-If you created a private repository according to the steps above, you are by default the only one who can access it. To share your repository with other people within the WCWH organization on Github, follow the steps below.  
+If you created a private repository according to the steps above, you are by default the only person who can access it. To share your repository with other people within the WCWH organization on Github, follow the steps below.  
 
 1. In your new repository, click settings from the menu at the top right, and "Collaborators and teams" from the sidebar on the left. Click the "Add teams" button and search for "researchers" in the pop up window. Choose "whole-communities-whole-health/researchers" when it appears. 
 
@@ -30,15 +30,14 @@ If you created a private repository according to the steps above, you are by def
 <p style="text-align:center;" align="center">
   <img align="center" src="https://github.com/whole-communities-whole-health/wcwh-repo-template/blob/main/images/grant-access.png" width="50%" /></p>
 
+3. Optional: You can grant additional permissions on a repository to a specific person or [group of people](https://docs.github.com/en/organizations/organizing-members-into-teams/creating-a-team) if desired.
 
+## Next Steps for Your New Repository
 
-
-## Next Steps
 Use this repository to upload sample calculations, scripts, sample data sets, etc. that would be userful to a someone who needs to understand the work you do (i.e. a new grad student). Here are some things to keep in mind:
-1. Delete the text in this file and use README.md to describe what is in the repository you created. Include relevant usage instructions for future researchers.
+1. Delete the text in this file and instead describe what is in the repository you created. Include relevant usage instructions for future researchers.
 2. Data included in your repository should be dummy data only that can be used in tandem with code you include here
-3. A sample repository organization structure is below. Adapt it as necessary for your
-   purposes. If you're only sharing a single script, your repository will look different.
+3. A sample repository organization structure is below. Adapt it as necessary for your purposes. If you're only sharing a single script, your repository will look different.
 
 ## Sample Repository Organization
 
